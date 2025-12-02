@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #1e1ef3;
     display: flex;
     justify-content: center;
     padding-top: 50px;
@@ -61,6 +61,7 @@ li {
 
 li:hover {
     background: #1b1818;
+    color: #ff0202;
 }
 li.feita {
     text-decoration: line-through;
